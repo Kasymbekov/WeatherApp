@@ -3,9 +3,9 @@
 ![alt text](https://github.com/Kasymbekov/WeatherApp/blob/master/extras/screen3.png)
 ![alt text](https://github.com/Kasymbekov/WeatherApp/blob/master/extras/duringSearch.png)
 
-------------------------------------------------------------------------------------------------------------------------------------------------<br /> 
+--------------------------------------------------------------------------<br /> 
 **- WeatherApp** - a minimalistic weather application that allows users to search and display the current weather and forecast in their city. 
-------------------------------------------------------------------------------------------------------------------------------------------------<br /> 
+--------------------------------------------------------------------------<br /> 
 
 **- Built with:**<br />
 
@@ -20,10 +20,12 @@
 **Retrofit** - _A type-safe HTTP client for Android and Java._<br /> 
 **Glide** - _An image loading library for Android backed by Kotlin Coroutines._<br /> 
 **Material Components for Android** - _Modular and customizable Material Design UI components for Android._<br /> 
-------------------------------------------------------------------------------------------------------------------------------------------------<br /> 
+-------------------------------------------------------------------------<br /> 
  **- Architecture:**<br /> 
 
 ![alt text](https://github.com/Kasymbekov/WeatherApp/blob/master/extras/mvvm.png)
+
+-------------------------------------------------------------------------<br /> 
 
  **- Just for note. I wanted to use FAB (see the image below) to open search page, but I didn't because technical specification is limited, that's why to open search page you need to click on profile icon**<br /> <br /> 
  ![alt text](https://github.com/Kasymbekov/WeatherApp/blob/master/extras/withFAB.png)
