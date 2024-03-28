@@ -6,7 +6,6 @@
 --------------------------------------------------------------------------<br /> 
 **- WeatherApp** - a minimalistic weather application that allows users to search and display the current weather and forecast in their city.<br /> 
 --------------------------------------------------------------------------<br /> 
-
 **- Built with:**<br />
 
 **Kotlin** - _first class and official programming language for Android development._<br /> 
