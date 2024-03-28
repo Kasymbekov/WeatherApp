@@ -26,6 +26,10 @@
 ![alt text](https://github.com/Kasymbekov/WeatherApp/blob/master/extras/mvvm.png)
 
 -------------------------------------------------------------------------<br /> 
+**- How to use:**
+
+To see the current weather of the necessary city you can click on the white dropdown list if you have saved it, otherwise you can add it on the search page clicking on the profile icon, and there on the search field type the name of the city or use the displayed list.
+-------------------------------------------------------------------------<br /> 
 
  **- Just for note. I wanted to use FAB (see the image below) to open search page, but I didn't because technical specification is limited, that's why to open search page you need to click on profile icon**<br /> <br /> 
  ![alt text](https://github.com/Kasymbekov/WeatherApp/blob/master/extras/withFAB.png)
