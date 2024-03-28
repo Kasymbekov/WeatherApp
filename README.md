@@ -4,7 +4,7 @@
 ![alt text](https://github.com/Kasymbekov/WeatherApp/blob/master/extras/duringSearch.png)
 
 --------------------------------------------------------------------------<br /> 
-**- WeatherApp** - a minimalistic weather application that allows users to search and display the current weather and forecast in their city. 
+**- WeatherApp** - a minimalistic weather application that allows users to search and display the current weather and forecast in their city.<br /> 
 --------------------------------------------------------------------------<br /> 
 
 **- Built with:**<br />
