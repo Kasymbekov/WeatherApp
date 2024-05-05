@@ -83,7 +83,7 @@ class WeatherFragment : Fragment() {
         super.onResume()
 
         viewModel.allCities.asFlow().asLiveData().observe(requireActivity()) {
-            var cities = mutableListOf<String>()
+            val cities = mutableListOf<String>()
             it.forEach { city ->
                 cities.add(city.city)
             }

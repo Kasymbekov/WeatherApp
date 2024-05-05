@@ -41,7 +41,7 @@ android {
 }
 
 dependencies {
-    implementation("androidx.core:core-ktx:1.9.0")
+    implementation("androidx.core:core-ktx:1.13.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.9.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
@@ -68,5 +68,9 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.7.0")
 
     testImplementation("com.squareup.okhttp3:mockwebserver:4.12.0")
+
+    // Lottie
+    val lottieVersion = "6.4.0"
+    implementation("com.airbnb.android:lottie:$lottieVersion")
 
 }
